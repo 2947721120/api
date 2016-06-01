@@ -34,7 +34,7 @@ http://api.jsdelivr.com/v1/jsdelivr/libraries?name=jq*&lastversion=*.0.1
 
 * `name` -库名称。 例: jquery
 * `mainfile` - 在info.ini主文件参数。 例: jquery.min.js
-* `lastversion`- 最新版本的项目。 例: 2.0.3 (will match multiple projects)
+* `lastversion`- 最新版本的项目。 例: 2.0.3 （将匹配多个项目）
 * `versions` -  所有托管的版本选定的项目. (read only)
 * `description` - 项目介绍
 * `homepage`- 网页工程。 例: http://jquery.com/
